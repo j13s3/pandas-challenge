@@ -1,0 +1,15 @@
+Written Report
+
+Part 1: Summary
+
+The combined data shows the overall performance of schools based on maths and reading scores of all students. This data considers government/independent school types, budgets, student years, and school sizes.
+
+From the data, it can be seen that at least half the students in each class pass both subjects. Typically, across all schools, the maths scores are higher than reading scores. The budget per student is typically within the $530 - $690 range. The government schools tend to school more students than the independent schools.
+
+Part 2: Conclusions
+
+The first conclusion is that there is an inversely proportional correlation between number of students in a school and maths/reading scores performance. The school size table clearly shows that as the number of students in a high school increase, the average performance, whether it is maths or reading scores individually or combined, decreases.
+
+The second conclusion is that independent schools are performing better than government schools. The top performing schools are dominated by independent schools and the bottom performing schools are government type. This is also because independent schools teach a lesser number of students than the government schools. There is also no concrete correlation between per student budget and overall scores performance with the best student performance being seen in the $585-$630 per student budget category.
+
+I could not identify any relation between student year and scores performance.
